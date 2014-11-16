@@ -9,7 +9,9 @@ textbelt('8011231234', 'hi man, how are you??' /*, callback */);
 
 #### limitations
 
-see the [TextBelt](http://textbelt.com/) site for limitations
+there's no way to send internaltional messages or messages to Canada, which
+TextBelt does support. I just hardcoded the `text` end-point in the code.
+see the [TextBelt](http://textbelt.com/) site for service limitations.
 
 #### thanks
 

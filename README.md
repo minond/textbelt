@@ -22,4 +22,5 @@ thanks for [Ian Webster](https://github.com/typpo) for creating
 
 won't be uploading this package to npm since
 [TextBelt](https://github.com/typpo/textbelt) can already programmatically
-used as a node package.
+used as a node package. but if you do want to install this package, just
+run `npm install minond/textbelt`
